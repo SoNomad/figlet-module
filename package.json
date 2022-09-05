@@ -1,0 +1,22 @@
+{
+  "name": "figlet-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "figlet-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoNomad/figlet-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoNomad/figlet-module/issues"
+  },
+  "homepage": "https://github.com/SoNomad/figlet-module#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
